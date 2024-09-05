@@ -1,12 +1,12 @@
 {
-    "name": "cyvelnet/laravel-billplz",
+    "name": "zakuanzili/laravel-billplz",
     "description": "Flexible billing and payment solution from Billplz for laravel ",
     "keywords": ["laravel","billplz"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Cyvelnet",
-            "email": "cyvelnet@gmail.com"
+            "name": "ZakuanZili",
+            "email": "muhammadzakuanzili@gmail.com"
         }
     ],
     "require": {
