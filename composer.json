@@ -18,8 +18,8 @@
         "orchestra/testbench": "3.1.*"
     },
     "autoload": {
-        "psr-4": {
-        "Cyvelnet\\LaravelBillplz\\": "src/"
+        "psr-0": {
+            "Cyvelnet\\LaravelBillplz\\": "src/"
         }
     },
     "extra":{
